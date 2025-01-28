@@ -1,0 +1,25 @@
+{
+  "name": "deployapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jk-06/DeployAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jk-06/DeployAPI/issues"
+  },
+  "homepage": "https://github.com/jk-06/DeployAPI#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
